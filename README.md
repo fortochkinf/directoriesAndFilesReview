@@ -1,3 +1,4 @@
+Исходное задание: https://docs.google.com/document/d/1p4_SYMreTI5hDvTm_g3lInt6yeP3ggVFrLpKZgPwAkA/edit?usp=sharing
 
 **Приложение сохраняет в базе данных directories информацию о файлах и папках по указанному пользователем пути (по умолчанию путь равен "/") и, по запросу, выводит эту информацию на экран.**
 ***
