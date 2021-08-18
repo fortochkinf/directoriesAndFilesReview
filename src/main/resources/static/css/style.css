@@ -1,0 +1,15 @@
+.menu {
+    list-style-type: none;
+}
+
+table {
+    table-layout: fixed;
+}
+
+td:nth-child(2) {
+    width: 45%;
+}
+
+/* .modal {
+    display: none;
+} */
